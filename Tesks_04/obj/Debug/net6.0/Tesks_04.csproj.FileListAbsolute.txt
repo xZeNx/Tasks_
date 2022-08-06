@@ -1,0 +1,15 @@
+C:\Users\ZeNsm\OneDrive\Рабочий стол\Tasks_\Tasks_00\Tesks_04\bin\Debug\net6.0\Tesks_04.exe
+C:\Users\ZeNsm\OneDrive\Рабочий стол\Tasks_\Tasks_00\Tesks_04\bin\Debug\net6.0\Tesks_04.deps.json
+C:\Users\ZeNsm\OneDrive\Рабочий стол\Tasks_\Tasks_00\Tesks_04\bin\Debug\net6.0\Tesks_04.runtimeconfig.json
+C:\Users\ZeNsm\OneDrive\Рабочий стол\Tasks_\Tasks_00\Tesks_04\bin\Debug\net6.0\Tesks_04.dll
+C:\Users\ZeNsm\OneDrive\Рабочий стол\Tasks_\Tasks_00\Tesks_04\bin\Debug\net6.0\Tesks_04.pdb
+C:\Users\ZeNsm\OneDrive\Рабочий стол\Tasks_\Tasks_00\Tesks_04\obj\Debug\net6.0\Tesks_04.csproj.AssemblyReference.cache
+C:\Users\ZeNsm\OneDrive\Рабочий стол\Tasks_\Tasks_00\Tesks_04\obj\Debug\net6.0\Tesks_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZeNsm\OneDrive\Рабочий стол\Tasks_\Tasks_00\Tesks_04\obj\Debug\net6.0\Tesks_04.AssemblyInfoInputs.cache
+C:\Users\ZeNsm\OneDrive\Рабочий стол\Tasks_\Tasks_00\Tesks_04\obj\Debug\net6.0\Tesks_04.AssemblyInfo.cs
+C:\Users\ZeNsm\OneDrive\Рабочий стол\Tasks_\Tasks_00\Tesks_04\obj\Debug\net6.0\Tesks_04.csproj.CoreCompileInputs.cache
+C:\Users\ZeNsm\OneDrive\Рабочий стол\Tasks_\Tasks_00\Tesks_04\obj\Debug\net6.0\Tesks_04.dll
+C:\Users\ZeNsm\OneDrive\Рабочий стол\Tasks_\Tasks_00\Tesks_04\obj\Debug\net6.0\refint\Tesks_04.dll
+C:\Users\ZeNsm\OneDrive\Рабочий стол\Tasks_\Tasks_00\Tesks_04\obj\Debug\net6.0\Tesks_04.pdb
+C:\Users\ZeNsm\OneDrive\Рабочий стол\Tasks_\Tasks_00\Tesks_04\obj\Debug\net6.0\Tesks_04.genruntimeconfig.cache
+C:\Users\ZeNsm\OneDrive\Рабочий стол\Tasks_\Tasks_00\Tesks_04\obj\Debug\net6.0\ref\Tesks_04.dll
